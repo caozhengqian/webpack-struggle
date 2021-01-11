@@ -1,0 +1,35 @@
+{
+  "name": "webpack-struggle",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caozhengqian/webpack-struggle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caozhengqian/webpack-struggle/issues"
+  },
+  "homepage": "https://github.com/caozhengqian/webpack-struggle#readme",
+  "devDependencies": {
+    "css-loader": "^5.0.1",
+    "csv-loader": "^3.0.3",
+    "json5": "^2.1.3",
+    "style-loader": "^2.0.0",
+    "toml": "^3.0.0",
+    "webpack": "^5.12.2",
+    "webpack-cli": "^4.3.1",
+    "xml-loader": "^1.2.1",
+    "yamljs": "^0.3.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
