@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/caozhengqian/webpack-struggle#readme",
   "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.5.1",
     "webpack": "^5.12.2",
     "webpack-cli": "^4.3.1"
   },
